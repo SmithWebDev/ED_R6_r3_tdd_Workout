@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
+#gem 'devise', '~> 4.7', '>= 4.7.3'
 #gem 'rspec', '~> 3.10'
 #gem 'cucumber-rails', '~> 2.2'
 
