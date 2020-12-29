@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
+
 #gem 'devise', '~> 4.7', '>= 4.7.3'
 #gem 'cucumber-rails', '~> 2.2'
 #gem 'pry', '~> 0.13.1'
@@ -50,6 +51,9 @@ group :development do
   gem 'listen', '~> 3.3'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+  gem 'guard'
+  #gem 'guard-livereload'
+  gem 'guard-rspec'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
