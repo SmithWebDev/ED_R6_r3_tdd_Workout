@@ -1,0 +1,2 @@
+
+function setjs() { mkdir app/webpacker/scss app/webpacker/js app/webpacker/images && touch app/webpacker/js/site.js app/webpacker/scss/site.scss }
