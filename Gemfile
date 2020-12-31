@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
 
-#gem 'devise', '~> 4.7', '>= 4.7.3'
+gem 'devise', '~> 4.7', '>= 4.7.3'
 #gem 'cucumber-rails', '~> 2.2'
 #gem 'pry', '~> 0.13.1'
 
