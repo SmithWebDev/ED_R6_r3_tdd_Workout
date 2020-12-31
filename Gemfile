@@ -54,6 +54,8 @@ group :development do
   gem 'guard'
   #gem 'guard-livereload'
   gem 'guard-rspec'
+  gem 'guard-cucumber'
+  gem 'awesome_print', '~> 1.8'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
